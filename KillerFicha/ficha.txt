@@ -1,1 +1,1 @@
-ficha.txt
+ficha.txt izmenena
